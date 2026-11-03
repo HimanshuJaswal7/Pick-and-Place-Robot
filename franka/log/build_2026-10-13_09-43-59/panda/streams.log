@@ -1,0 +1,22 @@
+[0.817s] Invoking command in '/home/sanjay/franka/build/panda': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/sanjay/franka/build/panda/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sanjay/franka/install/panda/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sanjay/franka/build/panda/build --no-deps symlink_data
+[0.970s] running develop
+[1.047s] running egg_info
+[1.047s] creating panda.egg-info
+[1.054s] writing panda.egg-info/PKG-INFO
+[1.054s] writing dependency_links to panda.egg-info/dependency_links.txt
+[1.054s] writing requirements to panda.egg-info/requires.txt
+[1.054s] writing top-level names to panda.egg-info/top_level.txt
+[1.054s] writing manifest file 'panda.egg-info/SOURCES.txt'
+[1.069s] reading manifest file 'panda.egg-info/SOURCES.txt'
+[1.069s] writing manifest file 'panda.egg-info/SOURCES.txt'
+[1.077s] running build_ext
+[1.078s] Creating /home/sanjay/franka/install/panda/lib/python3.12/site-packages/panda.egg-link (link to .)
+[1.079s] 
+[1.079s] Installed /home/sanjay/franka/build/panda
+[1.079s] running symlink_data
+[1.079s] creating /home/sanjay/franka/install/panda/share/ament_index
+[1.079s] creating /home/sanjay/franka/install/panda/share/ament_index/resource_index
+[1.079s] creating /home/sanjay/franka/install/panda/share/ament_index/resource_index/packages
+[1.079s] symbolically linking /home/sanjay/franka/build/panda/resource/panda -> /home/sanjay/franka/install/panda/share/ament_index/resource_index/packages
+[1.079s] symbolically linking /home/sanjay/franka/build/panda/package.xml -> /home/sanjay/franka/install/panda/share/panda
+[1.105s] Invoked command in '/home/sanjay/franka/build/panda' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/sanjay/franka/build/panda/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sanjay/franka/install/panda/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sanjay/franka/build/panda/build --no-deps symlink_data

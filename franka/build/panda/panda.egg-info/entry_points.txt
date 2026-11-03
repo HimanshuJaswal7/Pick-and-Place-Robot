@@ -1,0 +1,2 @@
+[console_scripts]
+pick = panda.pick:main

@@ -1,0 +1,17 @@
+[0.557s] Invoking command in '/home/sanjay/franka/build/panda': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/sanjay/franka/build/panda/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sanjay/franka/install/panda/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sanjay/franka/build/panda/build --no-deps symlink_data
+[0.715s] running develop
+[0.807s] running egg_info
+[0.816s] writing panda.egg-info/PKG-INFO
+[0.816s] writing dependency_links to panda.egg-info/dependency_links.txt
+[0.816s] writing entry points to panda.egg-info/entry_points.txt
+[0.816s] writing requirements to panda.egg-info/requires.txt
+[0.816s] writing top-level names to panda.egg-info/top_level.txt
+[0.832s] reading manifest file 'panda.egg-info/SOURCES.txt'
+[0.832s] writing manifest file 'panda.egg-info/SOURCES.txt'
+[0.840s] running build_ext
+[0.840s] Creating /home/sanjay/franka/install/panda/lib/python3.12/site-packages/panda.egg-link (link to .)
+[0.841s] Installing pick script to /home/sanjay/franka/install/panda/lib/panda
+[0.841s] 
+[0.841s] Installed /home/sanjay/franka/build/panda
+[0.841s] running symlink_data
+[0.869s] Invoked command in '/home/sanjay/franka/build/panda' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/sanjay/franka/build/panda/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sanjay/franka/install/panda/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sanjay/franka/build/panda/build --no-deps symlink_data

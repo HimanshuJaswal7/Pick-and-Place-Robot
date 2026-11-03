@@ -1,0 +1,20 @@
+running develop
+running egg_info
+creating panda.egg-info
+writing panda.egg-info/PKG-INFO
+writing dependency_links to panda.egg-info/dependency_links.txt
+writing requirements to panda.egg-info/requires.txt
+writing top-level names to panda.egg-info/top_level.txt
+writing manifest file 'panda.egg-info/SOURCES.txt'
+reading manifest file 'panda.egg-info/SOURCES.txt'
+writing manifest file 'panda.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/sanjay/franka/install/panda/lib/python3.12/site-packages/panda.egg-link (link to .)
+
+Installed /home/sanjay/franka/build/panda
+running symlink_data
+creating /home/sanjay/franka/install/panda/share/ament_index
+creating /home/sanjay/franka/install/panda/share/ament_index/resource_index
+creating /home/sanjay/franka/install/panda/share/ament_index/resource_index/packages
+symbolically linking /home/sanjay/franka/build/panda/resource/panda -> /home/sanjay/franka/install/panda/share/ament_index/resource_index/packages
+symbolically linking /home/sanjay/franka/build/panda/package.xml -> /home/sanjay/franka/install/panda/share/panda
