@@ -1,8 +1,7 @@
 # Pick-and-Place-Robot
 A robotic Pick and Place simulation using NVIDIA Isaac Sim and ROS 2, featuring the Franka Emika Panda robotic arm. Demonstrates robotic manipulation, joint control, physics-based simulation, and ROS 2 integration for autonomous object handling
 
-
-# Pick and Place Robot Simulation | NVIDIA Isaac Sim + ROS 2
+# 🤖 Pick and Place Robot Simulation | NVIDIA Isaac Sim + ROS 2
 
 ## Overview
 
@@ -10,12 +9,12 @@ This project demonstrates a robotic **Pick and Place application** developed usi
 
 The objective is to simulate a robotic manipulation workflow in which a robot can interact with objects, pick them up, and place them at designated positions.
 
-## Technologies Used
+## 🚀 Technologies Used
 
-- NVIDIA Isaac Sim – Physics-based robotics simulation.
-- ROS 2 – Robot Operating System for communication and control.
-- Franka Emika Panda – 7-DOF robotic manipulator.
-- USD (Universal Scene Description – 3D simulation environment and scene configuration.
+- **NVIDIA Isaac Sim** – Physics-based robotics simulation.
+- **ROS 2** – Robot Operating System for communication and control.
+- **Franka Emika Panda** – 7-DOF robotic manipulator.
+- **USD (Universal Scene Description)** – 3D simulation environment and scene configuration.
 - **Python** – Robotics scripting and integration.
 
 ## ⚙️ Project Features
@@ -34,7 +33,7 @@ To understand and implement the fundamentals of robotic manipulation by combinin
 
 - `pick and place.usd` – Isaac Sim simulation scene.
 
-## Future Improvements
+## 🔮 Future Improvements
 
 - Implement autonomous object detection.
 - Integrate inverse kinematics for precise positioning.
