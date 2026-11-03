@@ -32,6 +32,7 @@ To understand and implement the fundamentals of robotic manipulation by combinin
 ## 📁 Project Files
 
 - `pick and place.usd` – Isaac Sim simulation scene.
+- Link : https://www.linkedin.com/feed/update/urn:li:activity:7523475728269512704
 
 ## 🔮 Future Improvements
 
