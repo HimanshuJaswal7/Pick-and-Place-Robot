@@ -34,14 +34,6 @@ To understand and implement the fundamentals of robotic manipulation by combinin
 - `pick and place.usd` – Isaac Sim simulation scene.
 - Link : https://lnkd.in/p/g5tGaZgN
 
-## 🔮 Future Improvements
-
-- Implement autonomous object detection.
-- Integrate inverse kinematics for precise positioning.
-- Develop automated grasping and placement.
-- Add camera-based perception using computer vision.
-- Improve motion planning and obstacle avoidance.
-
 ---
 
 **Built with NVIDIA Isaac Sim | ROS 2 | Franka Emika Panda**
